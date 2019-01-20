@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+---
+title: Frogs find Bugs | Application Security | Functional QA Testing
+---
 
-You can use the [editor on GitHub](https://github.com/bhumish/frogsfindsbugs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Worried about bugs or security issues in your application? 
+### We will help you find and smash them before they reach your Production server!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### In case your application uses the below platform, we are the right team to help you find bugs:
 
-### Markdown
+| Android | Desktop | iOS |
+|:--:|:--:|:--:|
+| Phones | Webapps | iPhones |
+| Tabs | Windows | iPads |
+| STB & Smart-TVs | Linux | ★ |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+#### We are a bunch of Functional and Security QA testers, having experience in testing applications related to:
 
-# Header 1
-## Header 2
-### Header 3
+| Media  | Telecom  | Social Networks | Recharge |
+| :---: | :---: | :---: | :---: |
+| **IOT**  | **Banking**  | **Shopping** | **Portals** |
 
-- Bulleted
-- List
+____
+    
+#### About the team
 
-1. Numbered
-2. List
+- Bunch of professionals with mid to senior level experience in Security, Functional and UI testing
+- Have professionally worked with MNCs and start-ups for securing their products and making them bug-free
+- Freelancing projects with multiple companies all over the globe
+- Functional and UI Testing tools used: Selenium, JMeter, Appium, TestNG
+- Security Testing tools used: BurpSuite, Metasploit, NMap, IBM Appscan, Dex2Jar, MobSF, Frida
+    
+##### For interesting bug-finds from our team, visit our [Blog](/blog/) page
+##### You can contact us at: mail@frogsfindbugs.com | Visit the [Contact](/contact/) page
 
-**Bold** and _Italic_ and `Code` text
+____
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bhumish/frogsfindsbugs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###### Keywords: #applicationsecurity #websecurity #androidsecurity #functionaltesting #uitesting #selenium #iossecurity #burpsuite #freelancing #javasecurity #regressiontesting #sdlc #smoketesting #blackboxtesting
+ 
+    
